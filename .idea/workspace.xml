@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="" />
+    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +23,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/index.html" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/contact.html" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/contact.html" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,7 +42,7 @@
       <workItem from="1618911304189" duration="4865000" />
       <workItem from="1619380037634" duration="9000" />
       <workItem from="1619450607444" duration="1528000" />
-      <workItem from="1619516055676" duration="1703000" />
+      <workItem from="1619516055676" duration="3475000" />
     </task>
     <task id="LOCAL-00001" summary="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html">
       <created>1618911525646</created>
@@ -62,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619517751139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Images">
+      <created>1619517884358</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619517884358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +82,7 @@
     <MESSAGE value="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html" />
     <MESSAGE value="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html" />
     <MESSAGE value="Modifications css &amp; images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifications css &amp; images" />
+    <MESSAGE value="Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images" />
   </component>
 </project>
