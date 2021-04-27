@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="- Ajout de &#10;&#10;- Changement de page2.html en contact.html">
+    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dots-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/dots-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/img/image-de-presentation.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/la-chouette-agence.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/texture-paper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +37,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/contact.html" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/contact.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/style.css" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../OC---Developpeur-web---Projet-4-master/OC---Developpeur-web---Projet-4-master/style.css" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +55,8 @@
       <workItem from="1618848346743" duration="683000" />
       <workItem from="1618911304189" duration="4865000" />
       <workItem from="1619380037634" duration="9000" />
+      <workItem from="1619450607444" duration="1528000" />
+      <workItem from="1619516055676" duration="1386000" />
     </task>
     <task id="LOCAL-00001" summary="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html">
       <created>1618911525646</created>
@@ -50,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618911525646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html">
+      <created>1619451218333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619451218333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html" />
+    <MESSAGE value="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html" />
   </component>
 </project>
