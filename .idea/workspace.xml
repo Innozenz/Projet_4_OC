@@ -42,7 +42,9 @@
       <workItem from="1618911304189" duration="4865000" />
       <workItem from="1619380037634" duration="9000" />
       <workItem from="1619450607444" duration="1528000" />
-      <workItem from="1619516055676" duration="3475000" />
+      <workItem from="1619516055676" duration="4245000" />
+      <workItem from="1619526124958" duration="46000" />
+      <workItem from="1619705026570" duration="1497000" />
     </task>
     <task id="LOCAL-00001" summary="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html">
       <created>1618911525646</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619517884358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="unités relatives">
+      <created>1619520615755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619520615755</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +92,7 @@
     <MESSAGE value="- Ajout de balise meta og, twitter&#10;- Suppression de keywords, modification de description&#10;&#10;- Ajout de defer sur les scripts dans head&#10;- Indentation et ajout de balises sémentiques&#10;&#10;- Changement de page2.html en contact.html" />
     <MESSAGE value="Modifications css &amp; images" />
     <MESSAGE value="Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images" />
+    <MESSAGE value="unités relatives" />
+    <option name="LAST_COMMIT_MESSAGE" value="unités relatives" />
   </component>
 </project>
