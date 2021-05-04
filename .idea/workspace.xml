@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="" />
+    <list default="true" id="f7449203-8ba1-49df-89e4-a64f56d44d4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
       <workItem from="1619526124958" duration="46000" />
       <workItem from="1619705026570" duration="1497000" />
       <workItem from="1620078738534" duration="2066000" />
-      <workItem from="1620120951770" duration="3225000" />
+      <workItem from="1620120951770" duration="3958000" />
     </task>
     <task id="LOCAL-00001" summary="- Changements de &lt;html lang=&quot;default&quot;&gt; en &lt;html lang=&quot;fr&quot;&gt;&#10;&#10;- Changement de page2.html en contact.html">
       <created>1618911525646</created>
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620124494066</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Label changed">
+      <created>1620125006000</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620125006000</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
